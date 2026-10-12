@@ -35,7 +35,7 @@ looking_for: Remote or on-site roles in product, project management or developme
 |:--|:--|:--|:--|
 | 2025 – 2026 | **Crocobet** | Research & Verification Specialist | KYC/AML document review, data accuracy and compliance checks |
 | 2022 – 2025 | **OnePay / Numus** | Technical Coordinator → Front-End Developer → Project Manager | Delivered payment-terminal software for **Credo Bank** and **Terabank**; owned requirements, backlog and stakeholder alignment |
-| Earlier | **NovaSystems** | — | IT project work |
+| Earlier | **NovaSystems** | Full-Stack Developer | IT project work |
 
 ---
 
